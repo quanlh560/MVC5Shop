@@ -1,0 +1,9 @@
+C:\ProjectMVC\ShopMVC5\TeduShop.Service\bin\Debug\TeduShop.Service.dll
+C:\ProjectMVC\ShopMVC5\TeduShop.Service\bin\Debug\TeduShop.Service.pdb
+C:\ProjectMVC\ShopMVC5\TeduShop.Service\bin\Debug\TeduShop.Common.dll
+C:\ProjectMVC\ShopMVC5\TeduShop.Service\bin\Debug\TeduShop.Data.dll
+C:\ProjectMVC\ShopMVC5\TeduShop.Service\bin\Debug\TeduShop.Common.pdb
+C:\ProjectMVC\ShopMVC5\TeduShop.Service\bin\Debug\TeduShop.Data.pdb
+C:\ProjectMVC\ShopMVC5\TeduShop.Service\obj\Debug\TeduShop.Service.csprojResolveAssemblyReference.cache
+C:\ProjectMVC\ShopMVC5\TeduShop.Service\obj\Debug\TeduShop.Service.dll
+C:\ProjectMVC\ShopMVC5\TeduShop.Service\obj\Debug\TeduShop.Service.pdb
